@@ -5,6 +5,8 @@ Unlike traditional cameras that capture full images at fixed intervals (e.g., 30
 
 ![events](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/Images/example.gif)
 
+Copyrigths for the GIF, Arren Glover, Italian Institute of Technology
+
 
 **Do you want to know more?** Look at my [CTUTalk](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/Images/CTUtalk.pdf)
 
