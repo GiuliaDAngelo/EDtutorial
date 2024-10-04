@@ -50,20 +50,13 @@ Do you want to create a neuron and see its behaviour?
 ## References 📚
 Here are some valuable resources to learn more about event-based cameras and neuromorphic vision:
 
-1. **Books:**
-   - "Event-Based Vision: A Survey" by Gallego et al. – A comprehensive survey of event-based vision systems.
-   - "Neuromorphic Engineering" by Steve Furber – An overview of neuromorphic engineering principles and applications.
+1. **Papers:**
+   - [Event-Based Vision: A Survey](https://ieeexplore.ieee.org/abstract/document/9138762) by Gallego et al. – A comprehensive survey of event-based vision systems.
+   - [Neuromorphic Engineering](https://link.springer.com/chapter/10.1007/978-3-662-43505-2_38) by Giacomo Indiveri – An overview of neuromorphic engineering principles and applications.
 
-2. **Research Papers:**
-   - Gallego, G., Delbruck, T., & Lichtenstein, J. (2017). *Event-based vision: A survey*. IEEE Transactions on Pattern Analysis and Machine Intelligence. [Link](https://doi.org/10.1109/TPAMI.2017.2651254)
-   - M. Liu et al. (2018). *Event-based camera: A comprehensive review*. IEEE Access. [Link](https://doi.org/10.1109/ACCESS.2018.2838279)
-
-3. **Online Courses & Tutorials:**
-   - [Neuromorphic Computing Course](https://neuromorphic.university) – A course that explores neuromorphic systems and event-based processing.
-   - [Event-based Vision for Robotics](https://www.coursera.org/learn/event-based-vision-robotics) – A Coursera course focusing on event-based vision applications in robotics.
 
 4. **Websites:**
-   - [Event-based Vision](http://eventbasedvision.org/) – A dedicated resource for event-based vision research and applications.
+   - [Event-based Perception for Robotics](https://edpr.iit.it/) – A dedicated resource for event-based vision research and applications.
    - [Neuromorphic Computing and Engineering](https://iopscience.iop.org/journal/2634-4386) – A journal focused on neuromorphic computing research.
 
 
