@@ -31,7 +31,13 @@ These systems use **event-based cameras** to collect data and neuromorphic proce
 ## Want to Learn More? 📚
 If you're curious about how the brain 🧠 can inspire technology, **neuromorphic vision** is the perfect place to start! With these futuristic tools, we can create smarter, faster, and more efficient systems. 🌍✨
 
-Check out the ()[tutorials] for a hands-on introduction!
+Check out the for a hands-on introduction!
+
+Do you want to see what events look like? Here you have a tutorial for you: 
+- [Real Data](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/realdata.py)
+
+Do you want to create a neuron and see its behaviour?
+- [Neuron tutorial](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/neuron.py)
 
 ---
 
