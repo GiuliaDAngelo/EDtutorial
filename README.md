@@ -3,10 +3,10 @@
 ## What are Event-Based Cameras? 📸
 Unlike traditional cameras that capture full images at fixed intervals (e.g., 30 or 60 times per second), **event-based cameras** work differently. These cameras are designed to capture **changes** in the scene — pixel by pixel! Instead of taking pictures of the entire scene at once, they only capture what *moves* or *changes* in brightness. 📍✨
 
-![events](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/images/example.gif)
+![events](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/Images/example.gif)
 
 
-**Do you want to know more?** Look at my [CTUTalk](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/images/CTUtalk.pdf)
+**Do you want to know more?** Look at my [CTUTalk](https://github.com/GiuliaDAngelo/EDtutorial/blob/main/Images/CTUtalk.pdf)
 
 
 ### How They Work 🧠🔬
