@@ -4,18 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 matplotlib.use('TkAgg')
 
-camera_events = 'right'
-codec = '24bit'
-filePathOrName = '/Users/giuliadangelo/workspace/data/DATASETs/attention-multiobjects/'
-events = importIitYarp(
-        filePathOrName=filePathOrName,
-        codec=codec)
-
-# events = importIitYarp(filePathOrName="data", tsBits=30)
-e_x = events['data'][camera_events]['dvs']['x']
-e_y = events['data'][camera_events]['dvs']['y']
-e_ts = np.multiply(events['data'][camera_events]['dvs']['ts'], 10**3)
-e_pol = events['data'][camera_events]['dvs']['pol']
+events = importIitYarp(filePathOrName="data", tsBits=30)
+e_x = events['data']['left']['dvs']['x']
+e_y = events['data']['left']['dvs']['y']
+e_ts = np.multiply(events['data']['left']['dvs']['ts'], 10**3)
+e_pol = events['data']['left']['dvs']['pol']
 
 width = 304
 height = 240
@@ -24,7 +17,7 @@ window = np.zeros((height,width))
 
 for x, y, ts, pol in zip(e_x, e_y, e_ts, e_pol):
     if ts<=window_period:
-        window[y][x]=255
+        window[y][x]=1
     else:
         plt.imshow(window)
         plt.draw()
